@@ -25,3 +25,5 @@ This project is a custom Spotify-like platform where songs are dynamically uploa
 - **Database**: [Specify Database Here]
 - **External API**: [FastAPI]
 - **Programming Language**: Python, SQL
+
+This repository contains work that is part of an academic project. While some sections/code/files were developed by me, other components were provided by my professor as part of the course materials. 
