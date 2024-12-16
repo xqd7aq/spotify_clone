@@ -21,9 +21,10 @@ This project is a custom Spotify-like platform where songs are dynamically uploa
 3. The website dynamically fetches and displays the new song using the API and database.
 
 ## Technologies Used
-- **AWS Services**: S3, Lambda
-- **Database**: [Specify Database Here]
+- **AWS Services**: S3, Lambda, EC2
+- **Database**: Created a database
 - **External API**: [FastAPI]
 - **Programming Language**: Python, SQL
+- **Tools** Docker
 
 This repository contains work that is part of an academic project. While some sections/code/files were developed by me, other components were provided by my professor as part of the course materials. 
